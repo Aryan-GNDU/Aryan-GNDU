@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Gen AI <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Python, ML, Dspy, DL<br>🌱 I’m currently learning training a LLMs<br>⚡ I'm new  to this field and would love to know and learn about a lot related to this field
+🔭 I’m currently working on Gen AI <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Python, ML, Dspy, DL<br>🌱 I’m currently learning on workiing with LLMs<br>⚡ I'm new  to this field and would love to know and learn about a lot related to this field
 
 
 ## 🌐 Socials:
